@@ -1,5 +1,5 @@
 # sql-challenge
-Module 9 Challenge
+PosgreSQL Database and analysis of sample employee data
 
 Contained in this Repo are the SQL and data files for the employee analysis.
 
